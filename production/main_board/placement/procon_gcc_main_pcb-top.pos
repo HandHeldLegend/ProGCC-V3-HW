@@ -1,4 +1,4 @@
-### Footprint positions - created on Mon Jun 19 11:15:39 2023 ###
+### Footprint positions - created on Sat Jul 29 11:36:05 2023 ###
 ### Printed by KiCad version 7.0.2
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -24,7 +24,6 @@ C21       100n                C_0402_1005Metric                                1
 C22       100n                C_0402_1005Metric                                144.8500  -123.6750  180.0000  top
 D1        M7C                 D_SOD-123                                        156.7355  -116.5748    0.0000  top
 D2        CUS08F30            D_SOD-323_HandSoldering                          123.5000  -121.0500   90.0000  top
-D3        CUS08F30            D_SOD-323_HandSoldering                          142.7940  -109.7045   90.0000  top
 D4        CUS08F30            D_SOD-323_HandSoldering                          131.8787  -113.9245    0.0000  top
 F1        Fuse                Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder   163.8540  -122.0674    0.0000  top
 F2        Fuse                Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder   118.1660  -119.2355   90.0000  top
@@ -74,11 +73,11 @@ REF**     HHL_Logo            HHL_Logo                                         1
 SW1       GL18_SW             GL18                                              96.3770  -118.4326    0.0000  top
 SW2       GL18_SW             GL18                                             158.3202  -140.0220    0.0000  top
 SW3       TS-1187A-B-A-B      SW_TS-1187A-B-A-B                                162.7600  -112.5400  -90.0000  top
-SW4       ~                   TS35CA                                           128.4835  -101.8900    0.0000  top
-T1        36-8730             KS_8730                                          178.6750  -144.9065    0.0000  top
+SW4       TS35CA              TS35CA                                           128.4835  -101.8900    0.0000  top
+T1        36-8730             KS_8730                                          178.5620  -145.5420    0.0000  top
 T2        36-8730             KS_8730                                           89.1750  -140.1250    0.0000  top
 T3        36-8730             KS_8730                                           84.6750  -140.1250    0.0000  top
-T4        36-8730             KS_8730                                          183.1750  -144.9065    0.0000  top
+T4        36-8730             KS_8730                                          183.0620  -145.5420    0.0000  top
 U1        GH39F_(Hall_SOT23)  GH39F                                             96.3770  -118.4326  -90.0000  top
 U2        GH39F_(Hall_SOT23)  GH39F                                             96.3770  -118.4326    0.0000  top
 U3        GH39F_(Hall_SOT23)  GH39F                                            158.3202  -140.0220  -90.0000  top
